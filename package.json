@@ -1,5 +1,5 @@
 {
-  "name": "Streaming-24-7-RPC",
+  "name": "24hrs-Discord-RPC-Livestreaming",
   "version": "1.0.0",
   "description": "Permite que você mantenha o status da sua conta como streaming. Ele também permite que você defina um link gif como sua imagem em seu rpc e tenha 2 botões. É totalmente personalizável!",
   "main": "index.js",
