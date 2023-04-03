@@ -1,7 +1,7 @@
 {
   "name": "Streaming-24-7-RPC",
   "version": "1.0.0",
-  "description": "Allows you to keep your account status as streaming. It also allows you to set a gif link as your image in your rpc and have 2 buttons. It is fully customizable!",
+  "description": "Permite que você mantenha o status da sua conta como streaming. Ele também permite que você defina um link gif como sua imagem em seu rpc e tenha 2 botões. É totalmente personalizável!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
