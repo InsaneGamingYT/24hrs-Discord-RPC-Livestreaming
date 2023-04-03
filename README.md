@@ -9,4 +9,4 @@ Permite que você mantenha o status da sua conta como streaming. Ele também per
 
 > ⭐ Sinta-se à vontade para marcar o repositório como estrela se isso o ajudou! ;)
 >
-> 24hrs-Transmitindo-DC por vini_sp2022 está licenciado sob Attribution 4.0 International
+> 24hrs-Transmitindo-DC por vini_sp2022 está licenciado sob Apache License 2.0
